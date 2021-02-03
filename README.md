@@ -14,7 +14,7 @@ Diese Elemente sollten immer gleich bleiben. Natürlich sieht ein Fließtext and
 
 Für jedes Element ist wichtig:
 - wie soll es mobil aussehen, und wie bei größeren Bildschirmen (Desktop). Es muss dabei aber weiterhin so aussehen, als wäre es immer noch eine Seite. Natürlich können Elemente auch mobil und auf Desktop gleich aussehen.
-- Wenn man verschiedene Hintergrundfarben hat (zB einen Hellen Hintergrund und einen dunklen), wie soll das Element auf diesem hellem und wie auf diesem dunklen Hintergrund aussehen.
+- Wenn man verschiedene Hintergrundfarben hat (z.B. einen Hellen Hintergrund und einen dunklen), wie soll das Element auf diesem hellem und wie auf diesem dunklen Hintergrund aussehen.
 
 Bitte beachten:
 
@@ -23,11 +23,11 @@ Es gibt Menschen, die Farbenblind sind (rot-grün Schwäche oder nur Grautöne).
 
 Dafür ist wichtig:
 - guter Kontrast zwischen Text und Hintergrund (Überprüfung z.B. mit https://webaim.org/resources/contrastchecker/)
-- Infos (zB Fehler), sollen auch durch Icons erkannt werden. z.B. einen Haken für “Erfolg/Alles gut” oder ein “!” für “Achtung / Fehler”
+- Infos (z.B. Fehler), sollen auch durch Icons erkannt werden. z.B. einen Haken für “Erfolg/Alles gut” oder ein “!” für “Achtung / Fehler”
 
 Allgemeine Regeln:
 - Achtet auf die Hierarchy. Eine h1-Überschrift soll mehr beachtet werden, als ein h2-Überschrift
-- nicht mehr als 2 Fontfamilies (zB Robot, Raileway) pro Seite.
+- nicht mehr als 2 Fontfamilies (z.B. Robot, Raileway) pro Seite.
 - Bitte Google Fonts benutzen, sind besser einzubinden
 - Achtet auf Konsistent, auch wenn Unterseiten etwas anders aussehen. User wollen Elemente wiedererkennen und wissen, dass sie noch auf der gleichen Seite sind.
 - Best Practice sind nicht zu viele Farben (1 bis 3 Farben + Abstufungen davon) + Text + Hintergrund + UI Farben (Rot für Fehler/Warnung, Grün für Erfolg, Gelb oder Blau für Info)
