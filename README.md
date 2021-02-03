@@ -30,9 +30,10 @@ Allgemeine Regeln:
 	⁃	nicht mehr als 2 Fontfamilies (zB Robot, Raileway) pro Seite.
 	⁃	Bitte Google Fonts benutzen, sind besser einzubinden
 	⁃	Achtet auf Konsistent, auch wenn Unterseiten etwas anders aussehen. User wollen Elemente wiedererkennen und wissen, dass sie noch auf der gleichen Seite sind.
-	⁃	Best Practice sind nicht zu viele Farben (nicht mehr als 3 Farben) + Text + Hintergrund + UI Farben (Rot für Fehler/Warnung, Grün für Erfolg, Gelb oder Blau für Info)
+	⁃	Best Practice sind nicht zu viele Farben (1 bis 3 Farben + Abstufungen davon) + Text + Hintergrund + UI Farben (Rot für Fehler/Warnung, Grün für Erfolg, Gelb oder Blau für Info)
 	⁃	Farben bitte in HEX-Code oder bei Transparenz RGBA angeben
 	⁃	Best-Practice: Abstände zwischen Elemente sind mobil meist kleiner als auf Desktop. Da Schriften auch meist kleiner sind.
+	- 	Website mobil sieht anders aus als eine App, selbst wenn es zusammen gehört.
 
 Speziell:
 
