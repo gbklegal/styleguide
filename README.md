@@ -1,4 +1,4 @@
-# styleguide
+# Styleguide
 
 Was IT von Styleguide braucht / Was bei Syleguide zu beachten ist:
 
@@ -73,7 +73,9 @@ Welche Elemente gibt es / werden vorkommen:
 - Textarea (Textfelder, die größer sind, für mehr Text)
 
 Anforderungen an hochzuladende Bilder:
-- wenn für Wordpress: Bild: .jpeg, Icon: .png
+- wenn für Wordpress:
+  - Bild: .jpeg
+  - Icon: .png
 - sonst: .svg, bei Bildern .png
 - in der Größe, die auch gebraucht wird (ohne größer/kleiner ziehen) - evtl automatisieren wir dies
 
